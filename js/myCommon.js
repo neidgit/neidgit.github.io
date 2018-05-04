@@ -25,7 +25,7 @@ $(function(){
   })()
   function quit(){
   localStorage.clear();
-  location.href = "index.html"
+  location.href = "../../../index.html"
 }
 })
 (function(){
@@ -35,6 +35,6 @@ $(function(){
     };
     function quit(){
   localStorage.clear();
-  location.href = "index.html"
+  location.href = "../../../index.html"
 }
 })()
